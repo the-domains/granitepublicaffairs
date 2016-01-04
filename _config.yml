@@ -1,0 +1,28 @@
+name: GranitePublicAffairs
+favicon: null
+layout_spectrum: 0.0058446922339499
+typography_spectrum: 0.8750315101351589
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.43427717383019626
+  lightness: 0.5708245073910803
+  saturation: 0.642580394167453
+  rhythmicContrast: 0.9892281007487327
+purpose: []
